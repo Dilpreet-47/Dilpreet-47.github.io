@@ -34,10 +34,14 @@
 - Drawing Portraits, Sketches
 - Playing Soccer
 
-| Subject      | Description | Test Text     |
+| Subject      | Obtained Marks | Total Marks     |
 | :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+| English      | 96       |  100  |
+| Maths   | 76        | 100      |
+| Science   | 78       | 100      |
+| Punjabi   | 138        | 150     |
+| Social Science   | 87      | 100      |
+
 
 ## Contact ##
 E-mail ID :-[dilpreetsinghjandu2@gmail.com](dilpreetsinghjandu2@gmail.com)  
