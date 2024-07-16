@@ -12,8 +12,8 @@
 ### Marks Detail ###
 |Subject|Obtained Marks|Total Marks|
 |---|---|---|
-|English|96| 100|
-|Maths|76| 100|
+|English|96|100|
+|Maths|76|100|
 |Science|78|100|
 |Punjabi|138|150|
 |Social Science|87|100|
