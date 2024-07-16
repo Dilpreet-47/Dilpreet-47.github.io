@@ -23,7 +23,7 @@
 **S.S. JAIN MODEL SR. SEC. SCHOOL, MALERKOTLA**
 ### Marks Detail ###
 | Subject   | Obtained Marks | Total Marks |
-|-----------|----------------|-------------|
+| :---      | :---           | :---        |
 | English   | 89             | 100         |
 | Maths     | 93             | 100         |
 | Physics   | 80             | 100         |
