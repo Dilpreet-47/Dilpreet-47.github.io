@@ -29,3 +29,10 @@
 | Physics   | 80             | 100         |
 | Chemistry | 99             | 100         |
 
+## Additional Skills ##
+- Photo Editing
+- Drawing Portraits, Sketches
+- Playing Soccer
+
+## Contact ##
+E-mail ID :-[dilpreetsinghjandu2@gmail.com](dilpreetsinghjandu2@gmail.com)  
