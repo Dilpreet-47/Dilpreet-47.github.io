@@ -11,7 +11,7 @@
 **S.S. JAIN MODEL SR. SEC. SCHOOL, MALERKOTLA**
 ### Marks Detail ###
 |Subject|Obtained Marks|Total Marks|
-|---|---|---|
+| --- | --- | --- |
 |English|96|100|
 |Maths|76|100|
 |Science|78|100|
@@ -33,6 +33,11 @@
 - Photo Editing
 - Drawing Portraits, Sketches
 - Playing Soccer
+
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
 
 ## Contact ##
 E-mail ID :-[dilpreetsinghjandu2@gmail.com](dilpreetsinghjandu2@gmail.com)  
