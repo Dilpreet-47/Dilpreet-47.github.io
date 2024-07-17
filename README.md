@@ -18,11 +18,9 @@
 | Punjabi | 138 | 150 |
 | Social Science | 87 | 100 |
 
-| Subject      | Obtained Marks | Total Marks | 
-| ----------- | ----------- | ----------- |
-| English      | Title       |
-| Maths   | Text        | Maths   |
-| Maths   | Maths   | Maths   |
+| Subject | Obtained marks | Total marks |
+| --- | --- | --- |
+| English | 96 | 100|
 
 ### CLASS 12TH ###
 ### From ###
