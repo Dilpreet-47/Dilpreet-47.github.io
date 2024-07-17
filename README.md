@@ -18,6 +18,12 @@
 | Punjabi | 138 | 150 |
 | Social Science | 87 | 100 |
 
+| Subject      | Obtained Marks | Total Marks | 
+| ----------- | ----------- | ----------- |
+| English      | Title       |
+| Maths   | Text        | Maths   |
+| Maths   | Maths   | Maths   |
+
 ### CLASS 12TH ###
 ### From ###
 **S.S. JAIN MODEL SR. SEC. SCHOOL, MALERKOTLA**
