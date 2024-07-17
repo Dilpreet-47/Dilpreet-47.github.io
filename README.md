@@ -20,7 +20,11 @@
 
 | Subject | Obtained marks | Total marks |
 | --- | --- | --- |
-| English | 96 | 100|
+| English | 96 | 100 |
+| Maths | 76 | 100 |
+| Science | 78 | 100|
+| Punjabi | 138 | 150|
+|Social Studies| 87 |100|
 
 ### CLASS 12TH ###
 ### From ###
