@@ -37,5 +37,5 @@
 - Drawing Portraits, Sketches
 - Playing Soccer
 
-## Contact ##
-E-mail ID :-[dilpreetsinghjandu2@gmail.com](dilpreetsinghjandu2@gmail.com)  
+## Contact :-
+- Email ID:- dilpreetsinghjandu2@gmail.com  
