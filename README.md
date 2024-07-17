@@ -10,13 +10,6 @@
 ### From ###
 **S.S. JAIN MODEL SR. SEC. SCHOOL, MALERKOTLA**
 ### Marks Detail ###
-| Subject | Obtained Marks | Total Marks | 
-|---|---|---|
-| English | 96 | 100 |
-| Maths | 76 | 100 |
-| Science | 78 | 100 |
-| Punjabi | 138 | 150 |
-| Social Science | 87 | 100 |
 
 | Subject | Obtained marks | Total marks |
 | --- | --- | --- |
@@ -36,6 +29,13 @@
 | Maths     | 93             | 100         |
 | Physics   | 80             | 100         |
 | Chemistry | 99             | 100         |
+
+| Subject | Obtained Marks | Total Marks |
+|---|---|---|
+| English | 89 | 100|
+|Maths|93|100|
+|Physics|80|100
+|Chemistry|99|100|
 
 ## Additional Skills ##
 - Photo Editing
