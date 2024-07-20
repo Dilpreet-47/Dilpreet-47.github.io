@@ -37,5 +37,8 @@
 - Drawing Portraits, Sketches
 - Playing Soccer
 
+## My Excel Certificate ##
+![Excel certificate]()
+
 ## Contact :-
 - Email ID:- dilpreetsinghjandu2@gmail.com  
