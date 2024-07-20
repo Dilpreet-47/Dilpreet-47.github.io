@@ -58,5 +58,6 @@ I recently completed an MS Excel course through www.mygreatLearning.com , and it
 - The COUNT function counts the number of cells that contain numbers within a specified range.
 - Example: If you have numbers and blank cells in cells A1 to A5, =COUNT(A1:A5) would count how many cells contain numbers.
 #### By learning and applying these functions, I gained practical skills
+
 ## Contact :-
 - Email ID:- dilpreetsinghjandu2@gmail.com  
