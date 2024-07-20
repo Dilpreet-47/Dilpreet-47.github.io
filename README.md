@@ -38,7 +38,7 @@
 - Playing Soccer
 
 ## My Excel Certificate ##
-![Excel certificate]()
+[![Excel certificate]()](https://github.com/Dilpreet-47/Dilpreet-47.github.io/issues/1#issue-2420863559)
 
 ## Contact :-
 - Email ID:- dilpreetsinghjandu2@gmail.com  
