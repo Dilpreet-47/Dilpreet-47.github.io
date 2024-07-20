@@ -59,5 +59,13 @@ I recently completed an MS Excel course through www.mygreatLearning.com , and it
 - Example: If you have numbers and blank cells in cells A1 to A5, =COUNT(A1:A5) would count how many cells contain numbers.
 #### By learning and applying these functions, I gained practical skills
 
+## Induction Activity Report
+| Date | Guest | Lesson |
+|---|---|---|
+| 10 July 2024 | Pr. Dr. Sehijpal Singh | 100|
+||NSET Dir. S. Inderpal Singh|100|
+||Er. Jiwandeep Singh|100
+||SSP Rajeshwer Singh|100|
+
 ## Contact :-
 - Email ID:- dilpreetsinghjandu2@gmail.com  
