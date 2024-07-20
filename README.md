@@ -3,7 +3,7 @@
 
 ## **INTRODUCTION** ##
 
-• Hello everyone my name is Dilpreet Singh. I am from Malerkotla. I am very interested in Coding and I love to do coding and learning new things in Technology and I want to develop a strong skill in coding that's why I am persuing BTECH in Computer Science and Engineering at GNDEC LUDHIANA. 
+My name is Dilpreet Singh, and I am from Malerkotla. I really enjoy coding and love exploring new technologies.  and I want to develop a strong skill in coding that's why Currently, I am pursuing a Bachelor of Technology degree in Computer Science and Engineering at GNDEC LUDHIANA with the goal of cultivating a robust skill set in programming.
 
 ## **EDUCATION** ##
 
@@ -40,7 +40,7 @@
 ## My Excel Certificate ##
 ![Excel Certificate](https://github.com/user-attachments/assets/56aea9b3-d3f1-4b30-8a1e-d1e0253cc34f)
 ### My Excel Course Experience
-I recently completed an MS Excel course through GreatLearning.com, and it has been a highly enriching experience. The course covered essential features of Excel, from basic functionalities to more advanced data analysis techniques. It was structured in a way that was easy to follow, with hands-on exercises that helped me grasp each concept effectively. The instructors were knowledgeable and provided practical insights that were directly applicable to real-world scenarios.
+I recently completed an MS Excel course through www.mygreatLearning.com , and it has been a highly enriching experience. The course covered essential features of Excel, from basic functionalities to more advanced data analysis techniques. It was structured in a way that was easy to follow, with hands-on exercises that helped me grasp each concept effectively. The instructors were knowledgeable and provided practical insights that were directly applicable to real-world scenarios.
 ### Examples of Excel Functions:
 1. SUM Function:
 - The SUM function is used to add up a range of numbers.
@@ -57,6 +57,6 @@ I recently completed an MS Excel course through GreatLearning.com, and it has be
 5. COUNT Function:
 - The COUNT function counts the number of cells that contain numbers within a specified range.
 - Example: If you have numbers and blank cells in cells A1 to A5, =COUNT(A1:A5) would count how many cells contain numbers.
-### By learning and applying these functions, I gained practical skills
+#### By learning and applying these functions, I gained practical skills
 ## Contact :-
 - Email ID:- dilpreetsinghjandu2@gmail.com  
