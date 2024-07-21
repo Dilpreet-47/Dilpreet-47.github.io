@@ -66,13 +66,15 @@ I recently completed an MS Excel course through www.mygreatLearning.com , and it
 #### Date :- 10-07-2024
 
 My college journey began with listening to kirtan at the campus Gurdwara Sahib. It felt really good to receive blessings before starting something new. After that, we sat in the auditorium and listened to speeches from the guests on the first day. It was a nice way to kick off our journey.
-### Guests of Day 1 
-| **Sr no.** | **Guest name**              |
-|------------|-----------------------------|
-|      1     | Pr. Dr. Sehijpal Singh      |
-|      2     | NSET Dir. S. Inderpal Singh |
-|      3     | Er. Jiwandeep Singh         |
-|      4     | SSP Rajeshwer Singh         |
+### Guests of Day 1 and thir lessons
+1. Pr. Dr. Sehijpal Singh
+- 
+3. NSET Dir. S. Inderpal Singh
+-
+5. Er. Jiwandeep Singh
+-
+6. SSP Rajeshwer Singh
+
 
 ## Contact :-
 - Email ID:- dilpreetsinghjandu2@gmail.com  
