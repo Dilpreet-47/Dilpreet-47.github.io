@@ -153,9 +153,9 @@ On Day 5 of the induction program, we participated in English activities and qui
 #### Date :- 18-07-2024
 ##### In class
 #### Peer Interaction
-During this session, two seniors interacted with us and explained ChatGPT and some important MS Excel functions like SUM, SUMIF, COUNT, MIN, MAX. They also taught us VLOOKUP, CONCATENATE, and data validation.
+- During this session, two seniors interacted with us and explained ChatGPT and some important MS Excel functions like SUM, SUMIF, COUNT, MIN, MAX. They also taught us VLOOKUP, CONCATENATE, and data validation.
 #### Maths class
-In this class, the teacher covered some derivative problems, integration by parts, and partial fractions. We practiced a variety of problems in each topic.
+- In this class, the teacher covered some derivative problems, integration by parts, and partial fractions. We practiced a variety of problems in each topic.
 ##### In Auditorium
 #### Dr. Harwinder Singh
 - Dr. Harwinder Singh, the ANO of NCC, introduced us to the valuable benefits of joining NCC. He outlined both the physical and mental advantages, explaining that NCC provides army training while also helping to shape our personality, build confidence and communication skills, enhance leadership qualities and teamwork, and, most importantly, teach discipline.
@@ -165,7 +165,48 @@ In this class, the teacher covered some derivative problems, integration by part
 3. Chance to get selected in armed forces
 4. NDA
 5. Besides being position in armed forces, NCC also provides us life skills that serves us whole life.
-6. The life skills provided by NCC are:-
+
+#### Er. Jasvir Singh Grewal
+- He discussed "The Power of Service: NSS and Nation Building," highlighting how the National Service Scheme (NSS) enables students to contribute to community development and national progress. NSS volunteers work on education, health awareness, environmental conservation, disaster relief, and social justice. Participation in NSS not only helps others but also builds valuable life skills and leadership qualities. He encouraged students to join NSS, emphasizing its role in linking academic learning with real-world problem-solving and fostering a more inclusive and prosperous nation. He also invited those who truly want to serve humanity to get involved.
+##### Work Done by NSS:-
+1. Afforestation
+2. AIDS awareness
+3. Blood donation camps
+4. cleaniness of our environment
+5. Disaster Manangement etc.
+##### Benefits of NSS:-
+1. Personality Development.
+2. It helps in acquiring leadership qualities and democratic attitude.
+3. It developer a sense of involvement in the task of nation building.
+4. It helps in developing positive attitude, self-confidence, courage & patience.
+
+### Day 7 :-
+#### Date :- 19-07-2024
+##### In Auditorium
+#### Er. Kanwardeep Kalra
+- Er. Kanwardeep Grewal introduced us to ***"The Journey from Campus to Corporate and Building a Future Beyond the Classroom."*** She emphasized that soft skills are as important as technical skills; without them, our technical abilities are less effective. We also watched a role play by seniors that demonstrated how to behave during interviews and how to manage our confidence in front of an interviewer.
+##### What are soft skills?
+- Basic etiquatee
+- Personality traits
+
+#### Dr. Jawinder Singh
+This session with Jasvinder Sir was both engaging and entertaining. He started by asking the meaning of ***"Sat Sri Akal."*** Although he isn’t a magician by profession, he performed magic tricks and explained the science behind them. He demonstrated the importance of balance by making a table and taught us how to count the bones in the human body. Dr. Jaswinder Singh, the in-charge of IAPT and a Shiksha Ratan awardee, is a remarkable personality. He explained that everything in the world is connected to mathematics and provided clear examples. He introduced us to the concepts of induction and conduction, which can seem tough and boring in class, but he made them easy and enjoyable. He also gave us a fun trick to remember the number of bones in the human body and their distribution.
+
+### Department visit:-
+#### Department of Computer Science and Engineering
+##### Department Vision
+To develop skilled professionals who can join industry and research organizations both nationally and internationally.
+##### Department Mission
+- Offering a solid theoretical and practical foundation in computer science, focusing on software development.
+- Teaching skills needed for ongoing education and professional growth.
+- Providing computer education to empower youth in rural communities.
+- Fostering professional behavior, strong ethical values, innovative research skills, and leadership abilities.
+#### Societies and clubs in the Computer Science Department
+
+1. CSI- Computer society of India
+2. Data Science Club
+
+The professors also provided details about the campus placement and training cells, highlighting that the highest package can reach up to 51 lakhs. We also learned about the examination system in the Computer Science Department. After this informative session, we had the chance to visit the computer lab.
 
 ## Contact :-
 - Email ID:- dilpreetsinghjandu2@gmail.com  
