@@ -67,11 +67,12 @@ I recently completed an MS Excel course through www.mygreatLearning.com , and it
 
 My college journey began with listening to kirtan at the campus Gurdwara Sahib. It felt really good to receive blessings before starting something new. After that, we sat in the auditorium and listened to speeches from the guests on the first day. It was a nice way to kick off our journey.
 ### Guests of Day 1 and their lessons
-|Sr no.|Guest name|Lesson|
-|---|---|---|
-|1|Pr. Dr Sehijpal Singh| |
-|2|NSET Dir. S. Inderpal Singh|  |
-|3|  |  |
-|4|  |  |
+| Subject | Obtained marks | Total marks |
+| --- | --- | --- |
+| English | 96 | 100 |
+| Maths | 76 | 100 |
+| Science | 78 | 100|
+| Punjabi | 138 | 150|
+|Social Studies| 87 |100|
 ## Contact :-
 - Email ID:- dilpreetsinghjandu2@gmail.com  
