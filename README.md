@@ -115,13 +115,57 @@ After every mistake and lie, we should immediately seek forgiveness from God. We
 On the third day of the induction program, we attended classes.
 #### 1. Maths class
 - In our first math class, the teacher covered the chapter on derivations and helped us solve related problems.
-#### 1. UHV class
+#### 2. UHV class
 - In our UHV class, we began with self-introductions, and then the teacher started the lecture, covering the first chapter.
 
 Overall, the second day was full of learning and very useful.
 
-### Day 3 :-
+### Day 4 :-
 #### Date :- 15-07-2024
+### Speakers of Day 2 and their lessons
+#### 1. Dr. Randhir Singh
+- In this short session with Randhir Sir, he showed us how to create a GitHub page.
+#### 2. Dr. Pyare Lal Garg
+- A wise sage shares his wisdom through poetry, encouraging us to believe in our potential. He teaches that with determination, any dream can be achieved. Embrace your passions, stay positive, and see challenges as chances to grow. Everyone faces failure, but resilience brings success. Choose hope over despair and focus on self-improvement. Your path to greatness starts from within.
+#### 3. Mr. Sony Goyal
+- Mr. Sony Goyal, a fantastic educator, gave an inspiring session on effective planning and personal excellence in engineering education. He stressed the importance of putting your full effort into every task and encouraged us to view the “science stream” more broadly instead of calling it “non-medical.” He advised focusing on one task at a time for the best results and urged us to learn with both our minds and hearts. Mr. Goyal encouraged us to ask questions whenever we have doubts. His passionate and engaging approach left a strong impression, motivating students to pursue academic excellence and personal growth with renewed enthusiasm.
+
+- Always Remember
+1. Give your 100%
+2. Do what you love, love what you do
+3. Should have Efficiency and Compatibility
+#### 4. Mr. Pancham  
+- He taught us about non-verbal communication, body language, and behavior. His skill in reading facial expressions, gestures, and the nuances of effective communication was impressive. Mr. Pancham’s interactive style made the learning engaging and practical, helping us better understand non-verbal cues and improve our interpersonal skills. He also shared inspiring stories and lessons from his leadership experiences in various societies. Later, he introduced us to the SAE Club, which offers exciting and creative activities that left me truly amazed.
+  
+### Day 5 :-
+#### Date :- 16-07-2024
+#### English Activities
+On Day 5 of the induction program, we participated in English activities and quiz competitions. Taking part in English activities during the induction was a great way to connect with fellow students. These activities not only boosted my confidence but also helped build a sense of camaraderie among classmates.
+
+### Day 6 :-
+#### Date :- 17-07-2024
+#### Today we attended our classes
+#### 1. UHV class
+- In our second UHV class, we covered two chapters. The first chapter focused on happiness and prosperity, including guidelines for mutual happiness, the role of education, and self-exploration. The second chapter examined the coexistence of body and soul, their needs, and the sources of imagination.
+#### 2. Maths class
+- Our Maths class is led by Pr. S. Jaswant Singh, who explained the importance of math in programming for our future careers in BTech CSE.
+### Day 7 :-
+#### Date :- 18-07-2024
+##### In class
+#### Peer Interaction
+During this session, two seniors interacted with us and explained ChatGPT and some important MS Excel functions like SUM, SUMIF, COUNT, MIN, MAX. They also taught us VLOOKUP, CONCATENATE, and data validation.
+#### Maths class
+In this class, the teacher covered some derivative problems, integration by parts, and partial fractions. We practiced a variety of problems in each topic.
+##### In Auditorium
+#### Dr. Harwinder Singh
+- Dr. Harwinder Singh, the ANO of NCC, introduced us to the valuable benefits of joining NCC. He outlined both the physical and mental advantages, explaining that NCC provides army training while also helping to shape our personality, build confidence and communication skills, enhance leadership qualities and teamwork, and, most importantly, teach discipline.
+##### Benefits of opting NCC includes:
+1. SAHARA Scholarship for NCC cadets
+2. Expenses of uniforms and camps are beared by the government
+3. Chance to get selected in armed forces
+4. NDA
+5. Besides being position in armed forces, NCC also provides us life skills that serves us whole life.
+6. The life skills provided by NCC are:-
 
 ## Contact :-
 - Email ID:- dilpreetsinghjandu2@gmail.com  
