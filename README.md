@@ -67,13 +67,13 @@ I recently completed an MS Excel course through www.mygreatLearning.com , and it
 
 My college journey began with listening to kirtan at the campus Gurdwara Sahib. It felt really good to receive blessings before starting something new. After that, we sat in the auditorium and listened to speeches from the guests on the first day. It was a nice way to kick off our journey.
 ### Guests of Day 1 and their lessons
-| Sr. No. | Guest | Lesson |
-|---|---|---|
-| 1 | Pr. Dr. Sehijpal Singh | Pr. Dr. Sehijpal singh welcomed us to the GNDEC campus and intoduce us about the campus facilities and benefits.The chief guest was greeted with warmth and enthusiasm as they took the stage. Their presence added a special touch to the beginning of our college journey, making the day even more memorable.|
-| 1 | Pr. Dr. Sehijpal Singh | Pr. Dr. Sehijpal Singh Welcomed us to the GNDEC campus and introduce us about the campus facilites and benefits. The cheif guest was greeted with warmth and enthusiasm as they took the stage. Their presence added a sepcial touch to the begining of our college jouney, making the day evern more memeorable. | 
-|2  |NSET Dir. S. Inderpal Singh|The director of Nankana Sahib Education Trust emphasized that Guru Nanak Dev Engineering College was founded to honor Nankana Sahib, the birthplace of Guru Nanak Dev Ji. The college started as a Polytechnic in 1953 and was officially established in 1956 with a mission to use technology to uplift economically disadvantaged areas. They pledged to enroll 70% of students from rural backgrounds. Over the last 50 years, the college has graduated nearly 10,000 undergraduates and 3,000 postgraduates, contributing significantly to society.|
-|3  |Er. Jiwandeep Singh|Er. Jiwandeep Singh, a dedicated PCS officer, imparted valuable advice: he encouraged us not to wait passively for opportunities but to actively seize them when they arise. He emphasized the importance of never letting opportunities slip away, urging us to seek them out earnestly and make the most of them. Furthermore, he suggested engaging with in-depth content to enhance our understanding and discovering our passions early in our journeys. His words resonated with respect and wisdom, guiding us towards a proactive and purposeful approach in our endeavors.|
-|4  |SSP Rajeshwer Singh|100|
-
+| Sr no.      | Guest name | Lesson |
+| ----------- | ----------- | -----|
+| 1      | Pr. Dr Sehijpal Singh       | Pr. Dr. Sehijpal Singh Welcomed us to the GNDEC campus and introduce us about the campus facilites and benefits.
+ The cheif guest was greeted with warmth and enthusiasm as they took the stage. Their presence added a sepcial touch to the begining of our college jouney,
+ making the day evern more memeorable. |
+| 2   | NSET Dir. S. Inderpal Singh        |  |
+| 3 |  |  |
+| 4 |  |  |
 ## Contact :-
 - Email ID:- dilpreetsinghjandu2@gmail.com  
