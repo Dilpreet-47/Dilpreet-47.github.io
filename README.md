@@ -79,7 +79,14 @@ My college journey began with listening to kirtan at the campus Gurdwara Sahib. 
 His words resonated with respect and wisdom, guiding us towards a proactive and purposeful approach in our endeavors
 
 #### 4. SSP Rajeshwer Singh
--
+- SSP Rajeshwar Singh inspired us to always choose the path of kindness and helping others. Every good thing we do, and every bad thing too, always matters. He encouraged us to embrace four essential phrases:
+
+1. I am Sorry
+2. Please forgive me
+3. Thank you
+4. I love you
+
+After every mistake and lie, we should immediately seek forgiveness from God. We can deceive others, but we can't deceive ourselves or God. Deep down, we always know the truth behind our lies.Just like Newton's third law states that every action has an equal and opposite reaction, whatever we give to the world and nature will eventually come back to us.
 
 
 ## Contact :-
