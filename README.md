@@ -112,6 +112,16 @@ After every mistake and lie, we should immediately seek forgiveness from God. We
 
 ### Day 3 :-
 #### Date :- 12-07-2024
+On the third day of the induction program, we attended classes.
+#### 1. Maths class
+- In our first math class, the teacher covered the chapter on derivations and helped us solve related problems.
+#### 1. UHV class
+- In our UHV class, we began with self-introductions, and then the teacher started the lecture, covering the first chapter.
+
+Overall, the second day was full of learning and very useful.
+
+### Day 3 :-
+#### Date :- 15-07-2024
 
 ## Contact :-
 - Email ID:- dilpreetsinghjandu2@gmail.com  
