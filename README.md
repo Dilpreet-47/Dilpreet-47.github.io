@@ -88,6 +88,30 @@ His words resonated with respect and wisdom, guiding us towards a proactive and 
 
 After every mistake and lie, we should immediately seek forgiveness from God. We can deceive others, but we can't deceive ourselves or God. Deep down, we always know the truth behind our lies.Just like Newton's third law states that every action has an equal and opposite reaction, whatever we give to the world and nature will eventually come back to us.
 
+### Day 2 :-
+#### Date :- 11-07-2024
+### Guests of Day 2 and thir lessons
+#### 1. Dr. Arvind Dhingra
+- Today, we learned about the various societies and clubs on our college campus. They introduced us to SCIE, TSTE, E2S2 events, SAE, ISHRAI, ASME, ACM, PFA, CSI, the Data Science Club, Parwaaz Club, Live Wire Club, Causmic Club, English Club, ITian Club, and many more. Each group shared their goals and the benefits of joining them. Dr. Arvind Dhingra invited 22 students to the stage for a team strategy game, giving us a chance to introduce ourselves and experience personal and professional growth. Dr. Arvind Dhingra tells us about the type of memberships:-
+
+1. Member
+2. Active Member
+3. Executive Member
+4. Office Bearer
+
+#### 2. Dr. Parminder Singh 
+- He showed us the college’s excellent facilities, including well-equipped hostels, a modern computer center, a Computer Mathematics Laboratory (CML), and a comprehensive library. There are also sports facilities for physical activity and workshops for practical learning. Students can participate in leadership and service through NCC and NSS, and the Cultural Committee enhances campus life with various events.
+#### 3. Dr. H.S. Rai
+- Dr. H.S. Rai, the Controller of Examinations, shared his view that exams are opportunities to shine. He also talked about his journey to the Google Summer of Code with his students. He then invited coding enthusiasts to join the CodeGNE group and encouraged us to create a GitHub page using markdown and start blogging.
+
+- 3Ps for Success:-
+
+1. Passion
+2. Persistence
+3. Patience
+
+### Day 3 :-
+#### Date :- 12-07-2024
 
 ## Contact :-
 - Email ID:- dilpreetsinghjandu2@gmail.com  
