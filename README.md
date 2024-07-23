@@ -140,7 +140,7 @@ Overall, the second day was full of learning and very useful.
 ### Day 5 :-
 #### Date :- 16-07-2024
 #### English Activities
-On Day 5 of the induction program, we participated in English activities and quiz competitions. Taking part in English activities during the induction was a great way to connect with fellow students. These activities not only boosted my confidence but also helped build a sense of camaraderie among classmates.
+- On Day 5 of the induction program, we participated in English activities and quiz competitions. Taking part in English activities during the induction was a great way to connect with fellow students. These activities not only boosted my confidence but also helped build a sense of camaraderie among classmates.
 
 ### Day 6 :-
 #### Date :- 17-07-2024
@@ -190,7 +190,7 @@ On Day 5 of the induction program, we participated in English activities and qui
 - Personality traits
 
 #### Dr. Jaswinder Singh
-This session with Jaswinder Sir was both engaging and entertaining. He started by asking the meaning of ***"Sat Sri Akal."*** Although he isn’t a magician by profession, he performed magic tricks and explained the science behind them. He demonstrated the importance of balance by making a table and taught us how to count the bones in the human body. Dr. Jaswinder Singh, the in-charge of IAPT and a Shiksha Ratan awardee, is a remarkable personality. He explained that everything in the world is connected to mathematics and provided clear examples. He introduced us to the concepts of induction and conduction, which can seem tough and boring in class, but he made them easy and enjoyable. He also gave us a fun trick to remember the number of bones in the human body and their distribution.
+- This session with Jaswinder Sir was both engaging and entertaining. He started by asking the meaning of ***"Sat Sri Akal."*** Although he isn’t a magician by profession, he performed magic tricks and explained the science behind them. He demonstrated the importance of balance by making a table and taught us how to count the bones in the human body. Dr. Jaswinder Singh, the in-charge of IAPT and a Shiksha Ratan awardee, is a remarkable personality. He explained that everything in the world is connected to mathematics and provided clear examples. He introduced us to the concepts of induction and conduction, which can seem tough and boring in class, but he made them easy and enjoyable. He also gave us a fun trick to remember the number of bones in the human body and their distribution.
 
 ### Day 9 :-
 #### Date :- 22-07-2024
@@ -199,6 +199,13 @@ This session with Jaswinder Sir was both engaging and entertaining. He started b
 - Sir asked us to write down about your self like your name your fathers name your mothers name your senior secondary school name and your dream for which you come in college and what will we do to complete our dreams and what we expect from college after four years these things will make us introduced by our truth because we cant tell lie to ourselves. They also teach us very helpful life lessons.
 #### Dr. Pushpinder Singh
 - This session with Sir is very informative and helpful. Sir shared some valuable life lessons with us. He explained that to succeed, we need to be consistent and innovative. If we have a strong desire to achieve something, we can reach our goals with focus and concentration. He used the example of a woodpecker, which concentrates on one spot of a tree until it makes a hole. Sir also emphasized the importance of believing in ourselves and having faith in God. He said that humility is essential for survival. For instance, a bamboo tree bends during floods and survives, while big trees that don't bend often fall. This shows that being flexible helps us get through tough times.
+### Day 10 :-
+#### Date :- 23-07-2024
+##### In Class
+#### Maths
+- In this Math class, the teacher covered the chapter on derivations and helped us solve related problems.
+#### Canva class
+- In this class, our seniors attended and taught us about the various features and uses of Canva. They explained how useful Canva is for making posters, resumes, and other templates. We discovered that Canva has many inbuilt templates that are very helpful. This class made us realize just how beneficial Canva can be.
 ### Department visit:-
 #### Department of Computer Science and Engineering
 ##### Department Vision
