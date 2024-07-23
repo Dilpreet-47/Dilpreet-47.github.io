@@ -198,9 +198,7 @@ This session with Jaswinder Sir was both engaging and entertaining. He started b
 #### Er. Dr. SB Singh
 - Sir asked us to write down about your self like your name your fathers name your mothers name your senior secondary school name and your dream for which you come in college and what will we do to complete our dreams and what we expect from college after four years these things will make us introduced by our truth because we cant tell lie to ourselves. They also teach us very helpful life lessons.
 #### Dr. Pushpinder Singh
-- This session with Sir is very informative and helpful. Sir shared some valuable life lessons with us. He explained that to succeed, we need to be consistent and innovative. If we have a strong desire to achieve something, we can reach our goals with focus and concentration. He used the example of a woodpecker, which concentrates on one spot of a tree until it makes a hole.
-
-Sir also emphasized the importance of believing in ourselves and having faith in God. He said that humility is essential for survival. For instance, a bamboo tree bends during floods and survives, while big trees that don't bend often fall. This shows that being flexible helps us get through tough times.
+- This session with Sir is very informative and helpful. Sir shared some valuable life lessons with us. He explained that to succeed, we need to be consistent and innovative. If we have a strong desire to achieve something, we can reach our goals with focus and concentration. He used the example of a woodpecker, which concentrates on one spot of a tree until it makes a hole. Sir also emphasized the importance of believing in ourselves and having faith in God. He said that humility is essential for survival. For instance, a bamboo tree bends during floods and survives, while big trees that don't bend often fall. This shows that being flexible helps us get through tough times.
 ### Department visit:-
 #### Department of Computer Science and Engineering
 ##### Department Vision
