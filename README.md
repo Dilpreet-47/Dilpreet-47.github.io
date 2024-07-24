@@ -206,6 +206,18 @@ Overall, the second day was full of learning and very useful.
 - In this Math class, the teacher covered the chapter on derivations and helped us solve related problems.
 #### Canva class
 - In this class, our seniors attended and taught us about the various features and uses of Canva. They explained how useful Canva is for making posters, resumes, and other templates. We discovered that Canva has many inbuilt templates that are very helpful. This class made us realize just how beneficial Canva can be.
+### Day 11 :-
+##### In Auditorium
+#### Mr. Gouravdeep Singh
+- Our session with Gaurav Sir was truly inspirational and motivational. We learned many valuable lessons from him, particularly on how to grow from a middle-class background and achieve our dreams. He shared his own life experiences, including the ups and downs, which were highly motivational. Through his story, he demonstrated that life is full of challenges for everyone and that no one's life is inherently better or worse than another's.
+#### Er. Lakhvir Singh
+- In the session, Sir introduced us to CML (Center for Multi-Faceted Learning) and NPTEL (National Program on Technology Enhanced Learning) and SWAYAM (Study Webs of Active-Learning for Young Aspiring Minds).
+
+1. NPTEL: This is an initiative by the Indian Institutes of Technology (IITs) and the Indian Institute of Science (IISc). It offers online courses and certifications in various subjects.
+
+2. SWAYAM: This is an online learning platform that lets you study at your own pace and schedule. It’s useful for balancing additional learning with your regular B.Tech coursework.
+#### Causmic Club
+
 ### Department visit:-
 #### Department of Computer Science and Engineering
 ##### Department Vision
